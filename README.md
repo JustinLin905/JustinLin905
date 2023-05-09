@@ -1,8 +1,8 @@
 # Hi! My name is Justin 👋
 
-I'm a first-year Software Engineering student @ the University of Waterloo. My side projects mostly relate to game dev and app development, although I'm passionate about many other areas of tech which I'm excited to gain more experience in. Check out some of my work here, and on my [Itch.io page](https://justinlin905.itch.io/)!
+I'm a second-year Software Engineering student @ the University of Waterloo. My side projects mostly relate to 3D software development, although I'm passionate about many other areas of tech such as AI/ML and software-hardware interaction. Check out some of my work here, and on my [Itch.io page](https://justinlin905.itch.io/)!
 
-- 🌱 I’m currently in my 1B term of Software Eng, a cross-discipline program that combines Computer Science and Computer/Electrical Engineering. Some courses I'm studying include `CS138: Intro to Data Abstraction and Implementation` and `ECE124: Digital Circuits and Systems`.
+- 🌱 I’m currently on my first co-op term working as a Developer at **ArenaX Labs**. I'm working on their new fighting game *AI Arena*, where players train their own AI models using engaging visual tools... and then pit them against each other online!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: **tojustinlin@gmail.com**, or my [LinkedIn](https://www.linkedin.com/in/justin-lin-905/)
 

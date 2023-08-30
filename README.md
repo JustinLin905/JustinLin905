@@ -2,7 +2,7 @@
 
 I'm a second-year Software Engineering student @ the University of Waterloo. My side projects mostly relate to 3D software development, although I'm passionate about many other areas of tech such as AI/ML and software-hardware interaction. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
 
-- 🌱 I’m currently on my first co-op term working as a Developer at **ArenaX Labs**. I'm working on their new fighting game [AI Arena](https://aiarena.io/#/), where players train their own AI models using engaging visual tools... and then pit them against each other online!
+- 🌱 I just finished my first co-op term working as a Developer at **ArenaX Labs**. I worked on their new fighting game [AI Arena](https://aiarena.io/#/), where players train their own AI models using engaging visual tools... and then pit them against each other online!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: **tojustinlin@gmail.com**, or my [LinkedIn](https://www.linkedin.com/in/justin-lin-905/)
 

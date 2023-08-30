@@ -25,6 +25,6 @@ I'm a second-year Software Engineering student @ the University of Waterloo. My 
 
 ## Project Showcase
 
-![A screenshot showing the main menu of PlaceType](https://media.giphy.com/media/VPqyIwhypg0iTo9w76/giphy.gif)
+![Around Sound Loading Screen](https://imgur.com/thFpS87.gif)
 
-**PlaceType** is a video game where you create your next pixel-art masterpiece by typing! Built in Unity and C#. Check out the repo [here](https://github.com/JustinLin905/PlaceType).
+**around sound** is a fully immersive and customizable spatial music player. Load in your own .mp3 files, put on your headset, and jam out like never before. Check out the repo [here](https://github.com/JustinLin905/around-sound)!

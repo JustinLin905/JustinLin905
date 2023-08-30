@@ -23,7 +23,7 @@ I'm a second-year Software Engineering student @ the University of Waterloo. My 
  <img src= "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" \>
 </p>
 
-## Project Showcase: Aug. 30
+## Project Showcase
 
 ![Around Sound Loading Screen](https://imgur.com/thFpS87.gif)
 

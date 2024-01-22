@@ -2,7 +2,7 @@
 
 I'm a second-year Software Engineering student @ the University of Waterloo. My side projects mostly relate to 3D software development, although I'm passionate about many other areas of tech such as AI/ML and software-hardware interaction. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
 
-- 🌱 I'm headed to [Zynga](https://www.zynga.com/) for co-op starting January 2024! I'll be working on the **Zynga Poker** mobile product as well as general software/backend infrastructure. 🐕
+- 🌱 I'm currently at [Zynga Inc](https://www.zynga.com/) doing Client & Backend engineering for **Zynga Poker**, messing with Golang and gRPC right now 🐕
 - 🛠️ I just wrapped up hacking at [HackWestern X](https://www.hackwestern.com/), where my team and I won first place with our project [SuperStage](https://devpost.com/software/superstage)!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: **tojustinlin@gmail.com**, or my [LinkedIn](https://www.linkedin.com/in/justin-lin-905/)

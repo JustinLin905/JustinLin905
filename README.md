@@ -1,8 +1,8 @@
 # Hi! My name is Justin 👋
 
-I'm a Software Engineering student @ the University of Waterloo. My side projects mostly relate to 3D software development, although I'm passionate about many other areas of tech such as AI/ML and software-hardware interaction. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
+I'm a Software Engineering student @ the University of Waterloo. My side projects listed below are mostly in the realm of mixed reality, although I contribute to many other projects in the fields of machine learning and data engineering. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
 
-- 🌱 I'm currently at [Zynga Inc](https://www.zynga.com/) doing Client & Backend Engineering for **Zynga Poker**, the world's biggest Poker game. Messing with Golang and gRPC right now 🐕
+- 🌱 I'm currently at [Zynga Inc](https://www.zynga.com/) doing Backend Engineering for **Zynga Poker**, the world's biggest Poker game. Messing with Golang and gRPC right now 🐕
 - 🛠️ I will be at [Socratica's](https://www.socratica.info/) Symposium on April 2nd, where I will demo my project [SuperStage](https://devpost.com/software/superstage) and announce an exciting development in UW Engineering.
 - 📫 How to reach me: **tojustinlin@gmail.com**, or my [LinkedIn](https://www.linkedin.com/in/justin-lin-905/)
 

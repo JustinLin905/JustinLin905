@@ -1,9 +1,10 @@
 # Hi! My name is Justin 👋
 
-I'm a Software Engineering student @ the University of Waterloo. My side projects listed below are mostly in the realm of mixed reality, although I contribute to many other projects in the fields of machine learning and data engineering. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
+I'm a Software Engineering student @ the University of Waterloo. Check out some of my work here, or view more links on my [website](https://justin-lin.com)!
 
-- 🌱 I was previously at [Zynga Inc](https://www.zynga.com/) as a SWE intern. I developed performant backend systems in Go/gRPC for **Zynga Poker**, the world's biggest Poker game with millions of monthly users. Some of my work includes revamping the app's rewards microservice, improving P95 response time for 79 million transactions by up to 11%, every single day.
-- 🛠️ I'm currently working with some amazing people to establish **UW Reality Labs**, Waterloo's XR Engineering design team. Next term, I'll be acting as Software Lead to direct the development of a deep learning model for augmented-reality gesture classification.
+- 🌲 I'm currently at [Zynga Inc.](https://www.zynga.com/) as a Data Engineering Intern on the Platform Machine Learning team. I'm working on real-time data pipelines and monitoring systems for some of our largest ML models in production.
+- 🌱 I was also previously at Zynga working on Go/gRPC server code for **Zynga Poker**, the world's biggest Poker game with millions of monthly users. Some of my work includes revamping the app's rewards microservice, improving P95 response time for 79 million transactions by up to 11%, every single day.
+- 🛠️ I lead [Waterloo Reality Labs](https://uwrealitylabs.com/), the only collegiate design group in the world to be building in-house headsets from the ground up. We are interested in building new interfaces for the virtual world. I am currently directing the [Universal Gestures](https://uwrealitylabs.com/projects/universalgestures) and [Universal Text](https://uwrealitylabs.com/projects/universaltext) projects, and am pursuing funding for the team to begin building **Waterloo's humanoid**.
 - 📫 How to reach me: **tojustinlin@gmail.com**, or my [LinkedIn](https://www.linkedin.com/in/justin-lin-905/)
 
 ## Languages
